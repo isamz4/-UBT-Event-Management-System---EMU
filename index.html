@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ar" dir="rtl" data-v15>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#0b2e6d" />
+    <title>UBT EMU · V15</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="data.js" defer></script>
+    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="v15/styles.css" />
+    <script src="vendor/qrcode/qrcode.js" defer></script>
+    <script src="vendor/xlsx/xlsx.full.min.js" defer></script>
+    <script src="v15/models.js" defer></script>
+    <script src="v15/services.js" defer></script>
+    <script src="v15/ui.js" defer></script>
+    <script src="v15/wizard.js" defer></script>
+    <script src="v15/modules.js" defer></script>
+    <script src="v15/access.js" defer></script>
+    <script src="v15/calendar.js" defer></script>
+    <script src="v15/bootstrap.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#content">تجاوز إلى المحتوى / Skip to content</a>
+    <div id="storageNotice" role="alert" hidden></div>
+    <div id="app" class="app"></div>
+    <div
+      id="modal"
+      class="modal hidden"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="modalTitle"
+    >
+      <div class="modal-card" tabindex="-1">
+        <div class="modal-head">
+          <h2 id="modalTitle"></h2>
+          <button class="close" id="closeModal" type="button">×</button>
+        </div>
+        <div id="modalBody"></div>
+      </div>
+    </div>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>
