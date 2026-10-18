@@ -1,0 +1,43 @@
+{
+  "source_commit": "6cf5de718030de4d5ab77fd9cb1091b5a6e77fec",
+  "verification_scope": "Local Chromium served under a GitHub Pages project-repository subdirectory; no live deployment performed.",
+  "functional_tests": {
+    "base_commit": "6cf5de718030de4d5ab77fd9cb1091b5a6e77fec",
+    "mount_path": "/UBT-Event-Management-System-V15/",
+    "tests_run": 67,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "passed": 67,
+    "resource_errors": [],
+    "local_requests_outside_repository_path": [],
+    "unique_requested_paths": 19,
+    "result": "PASS"
+  },
+  "privacy_and_credentials": {
+    "result": "PASS",
+    "private_source_value_matches": 0,
+    "credential_pattern_matches": 0,
+    "injected_secret_value_matches": 0,
+    "forbidden_files": 0,
+    "non_demo_application_emails": 0,
+    "approved_public_partner_records": 20,
+    "reserved_partner_id_12_preserved": true,
+    "partner_seed_contains_private_fields": false,
+    "official_logos_byte_identical": true,
+    "old_git_history_included": false,
+    "notes": "Static privacy/credential scan; not a comprehensive third-party vulnerability audit. Sanitized @example.invalid identities and synthetic workflow data are intentional.",
+    "files_scanned": 27
+  },
+  "syntax_check": "All packaged JavaScript files passed node --check",
+  "asset_inventory": "ASSET_MANIFEST.json",
+  "preserved": "Official logos, six-role permissions, immutable references, published calendar, availability, bilingual workflows, 20 public partner records and reserved ID 12",
+  "old_repository_modified": false,
+  "pushed_or_deployed": false,
+  "limitations": [
+    "Frontend-only prototype with local browser state; no production authentication or shared backend.",
+    "Testing uses Chromium and viewport emulation, not physical devices or all browser engines.",
+    "Static privacy/credential checks are not a comprehensive third-party vulnerability audit.",
+    "Old repository history is excluded and unchanged; packaging does not remediate previously exposed history."
+  ]
+}

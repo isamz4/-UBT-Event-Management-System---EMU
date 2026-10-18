@@ -1,0 +1,228 @@
+{
+  "source_commit": "6cf5de718030de4d5ab77fd9cb1091b5a6e77fec",
+  "entry_point": "index.html",
+  "html_references_in_document_order": [
+    {
+      "type": "favicon",
+      "path": "ubt-logo.png"
+    },
+    {
+      "type": "CSS",
+      "path": "styles.css"
+    },
+    {
+      "type": "JavaScript",
+      "path": "data.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "app.js"
+    },
+    {
+      "type": "CSS",
+      "path": "v15/styles.css"
+    },
+    {
+      "type": "JavaScript",
+      "path": "vendor/qrcode/qrcode.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "vendor/xlsx/xlsx.full.min.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "v15/models.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "v15/services.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "v15/ui.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "v15/wizard.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "v15/modules.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "v15/access.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "v15/calendar.js"
+    },
+    {
+      "type": "JavaScript",
+      "path": "v15/bootstrap.js"
+    }
+  ],
+  "css_url_dependencies": [
+    {
+      "stylesheet": "styles.css",
+      "url": "login-campus-bg.png",
+      "file": "login-campus-bg.png"
+    }
+  ],
+  "dynamic_application_images": [
+    "ubt-logo.png",
+    "assets/branding/EMU Logo BLUE.png",
+    "assets/branding/EMU Logo.png"
+  ],
+  "public_catalog": "assets/data/partners-public.json",
+  "external_runtime_libraries_required": false,
+  "deployment_only_changes": [
+    "index.html: relative official UBT favicon",
+    "v15/calendar.js: approved local assets resolve inside the current project repository"
+  ],
+  "files_before_generated_validation_and_checksum_reports": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "DEPLOYMENT.md",
+      "bytes": 6320,
+      "sha256": "12019c714a70975deb77c110509ca16693356a32c7361b8965b4da35ae4b546c"
+    },
+    {
+      "path": "app.js",
+      "bytes": 93702,
+      "sha256": "411f419d48bc5cedad5ae07616550332205aef99cfa3911d1a2a7eb7eddd0fcb",
+      "identical_to_source": true
+    },
+    {
+      "path": "assets/branding/EMU Logo BLUE.png",
+      "bytes": 41499,
+      "sha256": "f317c59a09b92bb644c1287cea8b118dc1c2e5885eb39d809c15334a71c36f89",
+      "identical_to_source": true
+    },
+    {
+      "path": "assets/branding/EMU Logo.png",
+      "bytes": 38896,
+      "sha256": "715a1c9ddd7269f3dca0849136cc6416ebeaec0db021800b40db339ff11a4e61",
+      "identical_to_source": true
+    },
+    {
+      "path": "assets/data/partners-public.json",
+      "bytes": 4777,
+      "sha256": "7b7cb2480bbebbad9469e7736945bc5085f46e8eb1a4845271ef59962118c5b7",
+      "identical_to_source": true
+    },
+    {
+      "path": "data.js",
+      "bytes": 9292,
+      "sha256": "69c34c8464bbe91bfaced7f296f1c01820fcc78e6f5024d9b30b0a162e5d1add",
+      "identical_to_source": true
+    },
+    {
+      "path": "index.html",
+      "bytes": 1735,
+      "sha256": "3f6c635129b47c9efb2392b04df19b1d90ab492041eaa6bb3772de7dd3ff0c3a",
+      "identical_to_source": false
+    },
+    {
+      "path": "login-campus-bg.png",
+      "bytes": 258135,
+      "sha256": "29d2480faa0a01e60ce336a3f0be5c05a2cc3e872b18904addff299875ea469e",
+      "identical_to_source": true
+    },
+    {
+      "path": "styles.css",
+      "bytes": 50577,
+      "sha256": "6b127215d426b177bd1e5a01c690bd7d9453f5cfa4679330f613b96801bdc0f0",
+      "identical_to_source": true
+    },
+    {
+      "path": "ubt-logo.png",
+      "bytes": 19410,
+      "sha256": "8e21bf3254e3987efb60dc47fbeefaef84ea3feb707f9d89771c8f98b68807c1",
+      "identical_to_source": true
+    },
+    {
+      "path": "v15/access.js",
+      "bytes": 43086,
+      "sha256": "c81c3a43187fefae63ba7afb879c58c05e8430b9622f20860d32bcdd04c0e43b",
+      "identical_to_source": true
+    },
+    {
+      "path": "v15/bootstrap.js",
+      "bytes": 39739,
+      "sha256": "d61a35e26dda92f22b84369ec8b66e567c2c62ee0da0e2d95c0e516ad57b68c5",
+      "identical_to_source": true
+    },
+    {
+      "path": "v15/calendar.js",
+      "bytes": 27917,
+      "sha256": "9f43c30b936d4ab087b036c5d4829a21a4beb83bbd160e7f502e52900d036697",
+      "identical_to_source": false
+    },
+    {
+      "path": "v15/models.js",
+      "bytes": 11384,
+      "sha256": "b68bc7467bd16f1dedf2341e404a5fd0d4fd72cdd839b1919ab9c2b76225239c",
+      "identical_to_source": true
+    },
+    {
+      "path": "v15/modules.js",
+      "bytes": 86691,
+      "sha256": "e3c0adc2d4300c3a971a151c7ff6b923ccc2715a28b5d1bb3c0a45d862fe9104",
+      "identical_to_source": true
+    },
+    {
+      "path": "v15/services.js",
+      "bytes": 39239,
+      "sha256": "a04ce56fb178af75436a50e7fdb36731a4467dc2c9a3968167fde56f8ad809b0",
+      "identical_to_source": true
+    },
+    {
+      "path": "v15/styles.css",
+      "bytes": 14398,
+      "sha256": "39dd4b8bd3f9e702e2be6c6d851831e1e9462e7de4344c3f91ad264ba732b8f3",
+      "identical_to_source": true
+    },
+    {
+      "path": "v15/ui.js",
+      "bytes": 15203,
+      "sha256": "c73500235d753ded5bbbb6bb314ac8dbddf293628c78420f37157edc6fb718c3",
+      "identical_to_source": true
+    },
+    {
+      "path": "v15/wizard.js",
+      "bytes": 23506,
+      "sha256": "f36aa84af2bacd22a4d3c59e85e701aa91d5a4648996a04ab19bb4486c1db58c",
+      "identical_to_source": true
+    },
+    {
+      "path": "vendor/README.md",
+      "bytes": 783,
+      "sha256": "745efeba693614add0e1824a17a5945e6915d23f2eff7ad7caaba5430d27c086",
+      "identical_to_source": true
+    },
+    {
+      "path": "vendor/qrcode/qrcode.js",
+      "bytes": 56694,
+      "sha256": "18ae399f81182bc9de916e9c77b195df20cc58d6f2d55a62b085a299f1bf1780",
+      "identical_to_source": true
+    },
+    {
+      "path": "vendor/xlsx/LICENSE",
+      "bytes": 11355,
+      "sha256": "4d2a38ac35cda06a555c84074a819d413339cd3691b822cae50f8f322fe01f64",
+      "identical_to_source": true
+    },
+    {
+      "path": "vendor/xlsx/xlsx.full.min.js",
+      "bytes": 951904,
+      "sha256": "cc015130aa8521e7f088f88898eba949ccdcbfb38df0bd129b44b7273c3a6f41",
+      "identical_to_source": true
+    }
+  ]
+}
