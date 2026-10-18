@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "source": "Approved public columns of the user-provided UTF-8 CSV",
+  "records": [
+    {
+      "id": 1,
+      "name": "Dfruit",
+      "category": "أغذية صحية",
+      "activity": "فواكه مجففة",
+      "previousParticipation": "مؤكد سابقًا"
+    },
+    {
+      "id": 2,
+      "name": "Salus",
+      "category": "أغذية صحية",
+      "activity": "سلطات صحية وعينات طعام",
+      "previousParticipation": "مؤكد سابقًا"
+    },
+    {
+      "id": 3,
+      "name": "Propel",
+      "category": "مشروبات",
+      "activity": "إلكترولايتس ومياه منكهة",
+      "previousParticipation": "مؤكد سابقًا"
+    },
+    {
+      "id": 4,
+      "name": "سنديان الخليج نبات",
+      "category": "ورش وأنشطة",
+      "activity": "ورشة زراعة النباتات",
+      "previousParticipation": "مؤكد سابقًا"
+    },
+    {
+      "id": 5,
+      "name": "In2 Fitness",
+      "category": "رياضة ولياقة",
+      "activity": "نادي رياضي",
+      "previousParticipation": "غير مؤكد سابقًا"
+    },
+    {
+      "id": 6,
+      "name": "مسار",
+      "category": "صحة نفسية",
+      "activity": "خدمات وتوعية بالصحة النفسية",
+      "previousParticipation": "مؤكد سابقًا"
+    },
+    {
+      "id": 7,
+      "name": "Spectrum / سبيكتروم",
+      "category": "صحة نفسية",
+      "activity": "خدمات صحة نفسية",
+      "previousParticipation": "مؤكد سابقًا"
+    },
+    {
+      "id": 8,
+      "name": "قادرون",
+      "category": "جمعيات ومبادرات",
+      "activity": "دعم الأشخاص ذوي الإعاقة",
+      "previousParticipation": "مؤكد سابقًا"
+    },
+    {
+      "id": 9,
+      "name": "Team Up / تيم أب",
+      "category": "رياضة ولياقة",
+      "activity": "صحة نفسية وناد رياضي للأشخاص ذوي الإعاقة",
+      "previousParticipation": "مؤكد سابقًا"
+    },
+    {
+      "id": 10,
+      "name": "Floward",
+      "category": "ورود وهدايا",
+      "activity": "ورود وتنسيقات زهور",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 11,
+      "name": "Her Health",
+      "category": "رعاية صحية",
+      "activity": "توعية بسرطان الثدي",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 13,
+      "name": "Zingo Ringo",
+      "category": "أغذية ومشروبات",
+      "activity": "مصاصات إلكترولايتس (Electrolytes Lollipop)",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 14,
+      "name": "BeBreeze",
+      "category": "تجميل وعناية",
+      "activity": "علامة عناية بالبشرة مستوحاة من كوريا",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 15,
+      "name": "مستشفى جدة الوطني",
+      "category": "رعاية صحية",
+      "activity": "مستشفى ممكن توفر فحوصات ضغط و سكر، خصم على بعض الخدمات عندهم",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 16,
+      "name": "Clarity beauty",
+      "category": "رعاية صحية",
+      "activity": "facial check up، ديسكاونت كوبون، هدايا",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 17,
+      "name": "Diet King",
+      "category": "أغذية صحية",
+      "activity": "وجبات صحية",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 18,
+      "name": "Red Bull",
+      "category": "مشروبات",
+      "activity": "مشروبات طاقة",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 19,
+      "name": "عطور لجون بول، رابان، كارولينا هيريرا",
+      "category": "عطور",
+      "activity": "توزيع عينات عطور",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 20,
+      "name": "Andalusia Clinic’s",
+      "category": "رعاية صحية",
+      "activity": "توعية صحية وورش عمل",
+      "previousParticipation": "للتواصل مستقبلًا"
+    },
+    {
+      "id": 21,
+      "name": "Body Masters",
+      "category": "رياضة ولياقة",
+      "activity": "خصومات وتوعيه رياضيه وهدايا",
+      "previousParticipation": "للتواصل مستقبلًا"
+    }
+  ],
+  "reservedPartnerIds": [
+    12
+  ]
+}
